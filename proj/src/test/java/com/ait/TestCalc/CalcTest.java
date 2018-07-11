@@ -24,6 +24,7 @@ public class CalcTest {
 	@Test
 	public void testSub() {
 		//fail("Not yet implemented");
+		//Need to add test
 	}
 
 }
