@@ -21,6 +21,7 @@ public class CalcTest {
     
 		//Need to add test here
 		fail("Not yet implemented. To be done shortly");
+		//Something else
 	}
 	
 	@Test
