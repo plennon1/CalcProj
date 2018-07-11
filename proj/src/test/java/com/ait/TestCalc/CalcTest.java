@@ -18,7 +18,16 @@ public class CalcTest {
 
 	@Test
 	public void testAdd() {
+    
+		//Need to add test here
 		fail("Not yet implemented. To be done shortly");
+	}
+	
+	@Test
+	public void testSub() {
+		//fail("Not yet implemented");
+		//Need to add test
+
 	}
 
 }
