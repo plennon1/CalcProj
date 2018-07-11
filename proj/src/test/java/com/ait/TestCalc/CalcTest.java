@@ -18,7 +18,8 @@ public class CalcTest {
 
 	@Test
 	public void testAdd() {
-		//fail("Not yet implemented");
+		//Need to add test here
+		
 	}
 	
 	@Test
