@@ -12,5 +12,11 @@ public class Calc {
 		int total = a + b;
 		//Do something with total
 	}
+	
+	public void sub(int a, int b)
+	{
+		int total = a - b;
+		//Do something with total
+	}
 
 }
